@@ -1,0 +1,818 @@
+div.main1{
+    color: red;
+    background-color: royalblue;
+    width: auto;
+    height: 40px;
+}
+
+.Facebook{
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    background-color:royalblue;
+    border: royalblue;
+    border: royalblue;
+    position: relative;
+    top: 5px;
+    left: 100px;
+    float: left;
+}
+.image{
+    width: 25px;
+}
+
+.Twitter{
+    display: inline-block;
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    background-color:royalblue;
+    border: royalblue;
+    border: royalblue;
+    position: relative;
+    top: 5px;
+    left: 125px;
+    float: left;
+}
+.image11{
+    width: 25px;
+    height: 25px;
+}
+
+.Instagram{
+    display: inline-block;
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    background-color:royalblue;
+    border: royalblue;
+    border: royalblue;
+    position: relative;
+    top: 5px;
+    left: 150px;
+    float: left;
+}
+.image2{
+    width: 25px;
+    height: 25px;
+}
+
+.Youtube{
+    display: inline-block;
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    background-color:royalblue;
+    border: royalblue;
+    border: royalblue;
+    position: relative;
+    top: 5px;
+    left: 175px;
+    float: left;
+}
+.image3{
+    width: 25px;
+    height: 25px;
+}
+.Whatsapp{
+    display: inline-block;
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    background-color:royalblue;
+    border: royalblue;
+    border: royalblue;
+    position: relative;
+    top: 5px;
+    left: 200px;
+    float: left;
+}
+.image4{
+    width: 25px;
+    height: 25px;
+}
+.para1{
+    color:white;
+    display: inline-block;
+    float: left;
+    position: relative;
+    left: 300px;
+    bottom: 0px;
+    top: 8px;
+}
+
+/* .btn-outline-success{
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    left: 350px;
+    float: left;
+    background-color: white;
+} */
+
+.uk{
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    left: 360px;
+    float: left;
+    top: 5px;
+    color: lightgreen;
+    border: solid 1px lightgreen;
+    background-color: white;
+}
+.uk1{
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    left: 370px;
+    float: left;
+    top: 5px;
+    color: lightgreen;
+    border: solid 1px lightgreen;
+    background-color: white;
+}
+.uk2{
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    left: 380px;
+    float: left;
+    top: 5px;
+    color: lightgreen;
+    border: solid 1px lightgreen;
+    background-color: white;
+}
+
+.logo{
+    position: relative;
+    left: 100px;
+    float: left;
+    width: 250px;
+    height: 100px;
+}
+.home{
+    cursor: pointer;
+    position: relative;
+    left: 400px;
+    top: 20px;
+    width: 80px;
+    height: 30px;
+    border-radius: 25px;
+    background-color: royalblue;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.about{
+    cursor: pointer;
+    position: relative;
+    left: 400px;
+    top: 20px;
+    width: 80px;
+    height: 30px;
+    border-radius: 25px;
+    color: #000;
+    float: left;
+    text-align: center;
+}
+.services{
+    cursor: pointer;
+    position: relative;
+    left: 360px;
+    top: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 25px;
+    color: #000;
+    float: left;
+    text-align: center;
+}
+.projects{
+    cursor: pointer;
+    position: relative;
+    left: 300px;
+    top: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 25px;
+    color: #000;
+    float: left;
+    text-align: center;
+}
+.media{
+    cursor: pointer;
+    position: relative;
+    left: 280px;
+    top: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 25px;
+    color: #000;
+    float: left;
+    text-align: center;
+}
+.news{
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+    top: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 25px;
+    color: #000;
+    float: left;
+    text-align: center;
+}
+.donation{
+    cursor: pointer;
+    position: relative;
+    left: 15px;
+    top: 20px;
+    width: 10px;
+    bottom: 20px;
+    height: 30px;
+    color: #000;
+    float: left;
+}
+.front{
+    position: relative;
+    top: 0px;
+    bottom: 10px;
+    left: 10px;
+    width: 1335px;
+    height: 500px;
+    align-self: center;
+    
+}
+.ticker{
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+}
+.Link{
+    color: blue;
+}
+.date{
+    color: rgba(42, 202, 42, 0.993);
+}
+
+.main3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.one{
+    display: inline;
+    color: rgba(1, 109, 250, 0.986);
+}.two{
+    display: inline;
+    color: rgba(4, 209, 4, 0.637);
+
+}
+
+.three{
+    text-align: justify;
+}
+
+.main4{
+    width: 1335px;
+    height: 400px;
+}
+.extra1{
+    width: 100px;
+    float: left;
+}
+.extra2{
+    width: 1135px;
+    float: left;
+    text-align: justify;
+}
+.extra3{
+    width: 100px;
+    float: left;
+}
+
+.food{
+    width: 40px;
+    height: 50px;
+    position: relative;
+    top: 40px;
+    left: 45%;
+}
+.four{
+    position: relative;
+    top: 0px;
+    left: 30%;
+    color: white;
+}
+.mon{
+    color: rgb(9, 241, 20);
+    font-size: 20px;
+}
+.five{
+    position: relative;
+    top: 0px;
+    left: 20%;
+    color: white;
+}
+.family{
+    width: 40px;
+    height: 50px;
+    position: relative;
+    top: 40px;
+    left: 45%;
+}
+.six{
+    position: relative;
+    top: 0px;
+    left: 35%;
+    color: white;
+}
+.medical{
+    width: 40px;
+    height: 50px;
+    position: relative;
+    top: 48px;
+    left: 35%;
+}
+.seven{
+    position: relative;
+    top: 0px;
+    left: 20%;
+    color: white;
+}
+.education{
+    width: 45px;
+    height: 55px;
+    position: relative;
+    top: 45px;
+    left: 15%;
+}
+.eight{
+    position: relative;
+    top: 0px;
+    left: 0%;
+    color: white;
+}
+}
+.main11{
+    width: 1335px;
+    height: 250x;    
+}
+.u{
+    width: 335px;
+    height: 250px;
+    background-color: royalblue;
+    float: left;
+}
+.s{
+    width: 335px;
+    height: 250px;
+    background-color: royalblue;
+    float: left;
+}
+.a{
+    width: 335px;
+    height: 250px;
+    background-color:royalblue;
+    float: left;
+}
+.m{
+    width: 330px;
+    height: 250px;
+    background-color: royalblue;
+    float: left;
+}
+
+/* .ex{
+    width: 1350px;
+    height: 300px;
+    font-size: 20px;
+    clear: both;
+} */
+.main12{
+    text-align: center;
+    clear: both;
+}
+
+.main13{
+    background-color: white;
+    width: auto;
+}
+.nine{
+    background-color: white;
+    
+}
+.ten{
+    background-color: white;
+}
+.eleven{
+    position: relative;
+    left: 150px;
+    width: 25%;
+    height: 200px;
+    float: left;
+    border: rgb(218, 211, 211) solid 2px;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;  
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;  
+    box-shadow:         3px 3px 5px 6px #ccc;
+}
+.sadaqah{
+    position: relative;
+    left: 38%;
+    top: 20px;
+    
+}
+.Ol{
+    position: relative;
+    left: 15%;
+    top: 30px;
+    color: rgba(29, 93, 233, 0.822);
+}
+.twelve{
+    position: relative;
+    left: 200px;
+    width: 25%;
+    height: 200px;
+    float: left;
+    border: rgb(218, 211, 211) solid 2px;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;  
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;  
+    box-shadow:         3px 3px 5px 6px #ccc;
+}
+.We{
+    position: relative;
+    left: 32%;
+    top: 30px;
+    color: rgba(29, 93, 233, 0.822);
+}
+.thirteen{
+    position: relative;
+    left: 250px;
+    width: 25%;
+    height: 200px;
+    float: left;
+    border: rgb(218, 211, 211) solid 2px;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;  
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;  
+    box-shadow:         3px 3px 5px 6px #ccc;
+}
+.fourteen{
+    position: relative;
+    left: 150px;
+    top: 25px;
+    width: 25%;
+    height: 200px;
+    float: left;
+    border: rgb(218, 211, 211) solid 2px;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;  
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;  
+    box-shadow:         3px 3px 5px 6px #ccc;
+    clear: both;
+}
+.Das{
+    position: relative;
+    left: 20%;
+    top: 30px;
+    color: rgba(29, 93, 233, 0.822);
+}
+.fifteen{
+    position: relative;
+    top: 25px;
+    left: 200px;
+    width: 25%;
+    height: 200px;
+    float: left;
+    border: rgb(218, 211, 211) solid 2px;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;  
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;  
+    box-shadow:         3px 3px 5px 6px #ccc;
+}
+.RO{
+    position: relative;
+    left: 30%;
+    top: 30px;
+    color: rgba(29, 93, 233, 0.822);
+}
+.sixteen{
+    position: relative;
+    top: 25px;
+    left: 250px;
+    width: 25%;
+    height: 200px;
+    float: left;
+    border: rgb(218, 211, 211) solid 2px;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;  
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;  
+    box-shadow:         3px 3px 5px 6px #ccc;
+}
+.Edu{
+    position: relative;
+    left: 30%;
+    top: 30px;
+    color: rgba(29, 93, 233, 0.822);
+}
+
+.main14{
+    position: relative;
+    left: 1;
+    height: 500px;
+    top: 100px;
+    clear: both;
+    width: auto;
+}
+.seventeen{
+    position: relative;
+    top: 0px;
+    left: 30px;
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+.mission{
+    position: relative;
+    top: 30px;
+    color:  rgba(9, 75, 218, 0.863);
+}
+.line{
+   color: rgba(5, 158, 13, 0.808);
+}
+.eighteen{
+    position: relative;
+    top: 0px;
+    left: 150px;
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+.nineteen{
+    clear: both;
+    background-color: rgb(238, 241, 245);
+    position: relative;
+    top: 30px;
+    left: 30px;
+    width: 25%;
+    height: 130px;
+    float: left;
+}
+.set{
+    position: relative;
+    top: 25px;
+    left: 10px;
+}
+.set1{
+    position: relative;
+    top: 30px;
+    left: 50px;
+    display: inline-block;
+    font-size: 30px;
+    color:  rgba(9, 75, 218, 0.863);
+}
+.twenty{
+    position: relative;
+    background-color: rgb(238, 241, 245);
+    top: 30px;
+    left: 60px;
+    width: 25%;
+    height: 130px;
+    float: left;
+}
+.set2{
+    position: relative;
+    top: 35px;
+    left: 30px;
+    display: inline-block;
+    font-size: 30px;
+    color:  rgba(9, 75, 218, 0.863);
+}
+.another{
+    position: relative;
+    top: 30px;
+    left: 150px;
+    width: 25%;
+    height: 200px;
+    border: lightgrey solid 1px;
+    float: left;
+}
+.upcoming{
+    text-align: justify;
+}
+.twentyone{
+    clear: both;
+    position: relative;
+    background-color: rgb(238, 241, 245);
+    top: 0px;
+    left: 30px;
+    width: 25%;
+    height: 130px;
+    float: left;
+}
+.twentytwo{
+    position: relative;
+    background-color: rgb(238, 241, 245);
+    top: 0px;
+    left: 60px;
+    width: 25%;
+    height: 130px;
+    float: left;
+}
+.main15{
+    text-align: center;
+}
+
+.main16{
+
+}
+
+.image1{
+    width: 250px;
+    height: 130px;
+}
+.twentythree{
+    position: relative;
+    left: 10px;
+    float: left;
+}
+.twentyfour{
+    position: relative;
+    left: 20px;
+    float: left;
+}
+.twentyfive{
+    position: relative;
+    left: 30px;
+    float: right;
+}
+.twentysix{
+    position: relative;
+    left: 10px;
+    right: 10px;
+    float: right;
+}
+.twentyseven{
+    position: relative;
+    left: 30px;
+    float: left;
+}
+
+
+
+.main31{
+    width: 1335px;
+    height: 250x;    
+    clear: both;
+}
+.k{
+    position: relative;
+    left: 10px;
+    width: 250px;
+    height: 130px;
+    float: left;
+}
+.p{
+    position: relative;
+    left: 20px;
+    width: 250px;
+    height: 130px;
+    float: left;
+}
+.j{
+    position: relative;
+    left: 30px;
+    width: 250px;
+    height: 130px;
+    float: left;
+}
+.z{
+    position: relative;
+    left: 40px;
+    width: 250px;
+    height: 130px;
+    float: left;
+}
+.f{
+    position: relative;
+    left: 50px;
+    width: 250px;
+    height: 130px;
+    float: left;
+}
+
+.main32{
+    clear: both;
+    position: relative;
+    top: 200px;
+    width: auto;
+    height: 400px;
+    background-color: rgb(36, 36, 43);  
+}
+.us{
+    position: relative;
+    left: 50px;
+    width: auto;
+    top: 40px;
+    height: 300px;
+    float: left;
+    color: rgba(154, 161, 168, 0.986);
+}
+.zh{
+    position: relative;
+    top: 12px;
+}
+.sa{
+    position: relative;
+    left: 100px;
+    width: 35%;
+    top: 35px;
+    height: 100px;
+    float: left;
+    color: WHITE;
+}
+.do{
+    position: relative;
+    top: 10px;
+}
+.do1{
+    position: relative;
+    display: inline;
+    color: rgba(5, 158, 13, 0.808);
+}
+.do2{
+    position: relative;
+    display: inline;
+    color: rgba(154, 161, 168, 0.986);
+}
+.contact{
+    width: 25px;
+    height: 25px;
+}
+.world{
+    height: 25px;
+}
+.ma{
+    position: relative;
+    left: 130px;
+    width: 20%;
+    top: 50px;
+    height: 100px;
+    float: left;
+    color: white;
+}
+.main33{
+    position: relative;
+    top: 200px;
+    width: auto;
+    height: 50px;
+    background-color: rgb(0, 102, 255);
+    color: white;
+}
+.last{
+    position: relative;
+    top: 10px;
+    left: 50px;
+}  
+
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: gray; /* Set a background color */
+    color: gray; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 2px; /* Some padding */
+    border-radius: 1px; /* Rounded corners */
+    font-size: 0px; /* Increase font size */
+}
+  #myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
+
+.topimages{
+    width: 50px;
+    height: 50px;
+}
+  
+@media only screen and (max-width: 600px){
+    body {
+        width: 400px;
+    }
+  }
+@media only screen and (max-width: 400px){
+      body {
+          width: 200px;
+      }
+    }
+
+.email{
+    width: 30px;
+    height: 25px;
+}
+.contactus{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
